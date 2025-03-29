@@ -20,6 +20,7 @@ Book Recommendation Chatbot là một ứng dụng chatbot được xây dựng 
 ```bash
 git clone https://github.com/your-username/book_chatbot.git
 cd book_chatbot
+cd Application
 ```
 ### 2️⃣ Tạo môi trường ảo
 ```bash
